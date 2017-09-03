@@ -39,15 +39,21 @@ body {
 	font-size: 32px;
 }
 
+.header .brand .logo {
+	width: 150px;
+}
+
 .header .items {
 	display: inline-block;
 	text-align: center;
+	line-height: 28px;
+	margin-top: 40px;
 }
 
 .header .items div {
 	display: inline-block;
 	color: #666;
-	font-size: 20px;
+	font-size: 22px;
 }
 
 .separator {
